@@ -1,76 +1,91 @@
 Students:
 
-Slender man
-Popular for the sake of being popular. Hates his following, but won't admit it because he loves their attention. Generally polite to others.
+  Slender man
+    Incredibly self-assured and full of himself to a highly annoying extent, well aware of his own popularity which largely exists as a self-perpetuating phenomena. Has a considerable following of wannabes which dress and act like him constantly, both finds them idiotic and despises them but will not admit to it because he enjoys the attention he gains by having said follwoing. Puts on an air of politeness to others, often comes across as just an asshole despite his attempts. People still fawn over him regardless, female following generally hate his personality but love that big black tentacle action.
 
-Goatman
-Soft spoken and quiet. Doesn't really have any friends. Has a speech impediment that makes him sound like an animal attempting to emulate human speech, and a nervous tic that causes jumpy and erratic movements. Prefers to embed himself into groups that don't know each-other, since he doesn't want to be a third wheel, but when he gets noticed, his tic and impediment shows through despite heavy therapy.
+  Goatman
+    Soft spoken and quiet. Doesn't really have any friends. Has a speech impediment that makes him sound like an animal attempting to emulate human speech, and a nervous tic that causes jumpy and erratic movements. Prefers to embed himself into groups that don't know each-other, since he doesn't want to be a third wheel, but when he gets noticed his tic and impediment shows through despite heavy therapy. Was enrolled in drama class to improve social skills, is a terrible actor.
+      Romance option - Into the player character due to an 'unhealthy' fascination with humans. Incredibly obsessive and possessive about people he is romantically involved with, is often discovered searching through the player's belongings while they're away and attempts to play it off poorly.
 
-Grifter
-Hipster asshole. Never around, but for some reason there are people always trying to find him, despite him not being very popular.
+  Grifter
+    Hipster asshole. Never around, but for some reason there are people always trying to find him, despite him not being very popular.
 
-Skeleton Humerus
-Total party animal and hedonist. Everybody loves him, but he dislikes most students, since they make fun of his lil' bro
+  Skeleton Humerus
+    Total party animal and hedonist. Everybody loves him, but he dislikes most students since they make fun of his lil' bro.
 
-Skeleton Jelly
-THE BEST WAIFU
+  Skeleton Jelly
+    Lady's man and adonis of the school, massive but quiet female following as rumors fly about the school about how dreamy he is. Hated by some women due to jealousy, hated by nearly all of the men in the school due to massive amounts of jealousy and butthurt over having stolen their womens. Doesn't particularly care that he is hated by the men or the jealous women, just plays it up to his own benefit.
+    Romance option - The cool guy, treats his partner right and stands up for them as best he can even if it's a fight that he cannot win. Always gives highly thoughtful gifts and rarely worries about himself, for he is Skeleton Jelly.
 
-Zalgo
-Some stupid OMG SO RANDUM kid who claims to have read the works of Lovecraft, but wouldn't know Cthulhu, even if he were to personally rise from R'lyeh and slap him.
+  Zalgo
+    Poser wannabe that tries to act like he knows everything, claims to be afficionado of Lovecraft stories but doesn't know the difference between the Great Race of Yith and a Polyp. Has an incredibly grating personality which seems to hinge on a 'random' sense of humor, almost universally hated by all members of the school save for a small following of like-minded people.
 
-Jeff the Killer
-omg so edgi emo kid
+  Jeff the Killer
+    One of the poser wannabe crowd that hang out with Zalgo, constantly tries to act as dark and edgy as possible but largely just ends up making himself look like a fool. The few times he doesn't look like a total fool he just ends up looking pathetic. Thinks he knows how to fight but is in actuality about as skilled in fighting as Diemon Dave. 
 
-Bloody Mary
-Bubble-headed cheerleader type. Wants attention so bad, that all you have to do to get a date with her is call her name in front of a mirror a few times. People dislike her for how clingy she is, and her shrill voice.
+  Bloody Mary
+    Bubble-headed cheerleader type. Wants attention so bad, that all you have to do to get a date with her is call her name in front of a mirror a few times. People dislike her for how clingy she is, and her shrill voice.
 
-Grey
-Alien. Behaves somewhat like an autist and dresses in 90's rad clothes. Potentially on the run from XCOM
+  Grey
+    Alien. Behaves somewhat like an autist and dresses in 90's rad clothes. Potentially on the run from XCOM
 
-La Llorana
-Really cool and well adjusted senior. Everyone avoids her due to how she acted while her depression medication was being figured out in her freshman year, but nowadays there is no reason to do so. Dislikes Bloody Mary because of the whole mirror thing.
+  La Llorana
+    Really cool and well adjusted senior. Everyone avoids her due to how she acted while her depression medication was being figured out in her freshman year, but nowadays there is no reason to do so. Dislikes Bloody Mary because of the whole mirror thing.
 
-Banshee
-Has a catty dynamic with Bloody Mary.
+  Banshee
+    Has a catty dynamic with Bloody Mary.
 
-Girl from "Arizona" story
-Bookish type. Very nerdy and quiet. Has made few friends, and is seen as really clingy and desperate (But is actually a really sweet person). Spends all of her spare time in the bio lab growing mildew samples, partially because it makes her feel more at home.
+  Girl from "Arizona" story
+    Bookish type. Very nerdy and quiet. Has made few friends, and is seen as really clingy and desperate (But is actually a really sweet person). Spends all of her spare time in the bio lab growing mildew samples, partially because it makes her feel more at home.
 
-The White Lady
-To be added later
+  The White Lady
+    To be added later
 
-Random ghost girl
-Shy, and easily embarassed. Disappears when embarassed (Her way of "Blushing"?). Kuudere.
+  Random ghost girl
+    Shy, and easily embarassed. Disappears when embarassed (Her way of "Blushing"?). Kuudere.
 
 Faculty:
 
-Principle:
-Reptillian of some sort. SPOOKY ILLUMINATI
+  Principle:
+    Reptillian of some sort. 
+      SPOOKY ILLUMINATI
 
-Counselor with a "SAVE THE CHILDREN" complex:
-Billy Meier, because pleijarans or whatever
+  Counselor with a "SAVE THE CHILDREN" complex:
+    Billy Meier, 
+      because pleijarans or whatever
 
-Nurse:
-Plague doctor. Into "new age" medicine
+  Nurse:
+    Plague doctor. 
+      Into "new age" medicine
 
-Janitor:
-Richard Chase. If he gets to rant for too long about space nazis, the principle or the dean quietly hushes him and ushers him off.
+  Janitor:
+    Richard Chase. 
+      If he gets to rant for too long about space nazis, the principle or the dean quietly hushes him and ushers him off.
 
-Hippy art teacher:
-Frankenstein's monster
+  Hippy art teacher:
+    Frankenstein's monster
+      
 
-History teacher:
-Werewolf
+  History teacher:
+    Werewolf
+      
 
-Biology teacher:
-Chupacabra. Related to Werewolf, but they don't talk about it
+  Biology teacher:
+    Chupacabra. 
+      Related to Werewolf, but they don't talk about it
 
-Philosophy teacher:
-Vlad.
+  Philosophy teacher:
+    Vlad.
+    
 
-Media teacher:
-Happy appy
+  Media teacher:
+    Happy appy
+    
 
-Science teacher:
-Russian sleep experiment doctor.
+  Science teacher:
+    Russian sleep experiment doctor.
+    
 
+  Drama coach:
+    Slappy the dummy
+      
