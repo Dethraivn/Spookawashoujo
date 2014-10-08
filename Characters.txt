@@ -76,12 +76,12 @@ Faculty:
       
 
   History teacher:
-    Werewolf
-      
+    Chupacabra
+      Related to Werewolf, but they don't talk about it
 
   Biology teacher:
-    Chupacabra. 
-      Related to Werewolf, but they don't talk about it
+    Doctor Herbert West
+      
 
   Philosophy teacher:
     Vlad.
@@ -91,6 +91,10 @@ Faculty:
     Happy appy
     
 
+  Music teacher:
+    Siren
+      
+
   Science teacher:
     Russian sleep experiment doctor.
     
@@ -98,3 +102,39 @@ Faculty:
   Drama coach:
     Slappy the dummy
       
+
+  English teacher:
+    Mermaid
+      Constantly plays Mermaid: The New Evidence in class and goes on rants about how the government is hiding sea monsters instead of actually teaching english.
+
+  PE teacher:
+    Werewolf
+      
+
+  Math teacher:
+    
+      
+
+  Social Science teacher:
+    
+      
+
+  Metal Shop teacher:
+    
+      
+
+  Ancient Sumerian Language teacher:
+    Abdul Alhazred
+      Classes largely revolve around reading, speaking and translating passages from the Necronomicon.
+
+Denizens of Spoop Town:
+
+  Mothman
+    Religious nut, waits outside of Spoop 'Em High when class gets out to hand out religious pamphlets while prophesying.
+
+  Clown Gang
+    Lead by It, members made up of the Killer Klowns from Outer Space. Constantly harass people around town.
+
+  Pinhead
+    Creepy guy who constantly tries to kidnap people. Possible bad end by allowing yourself to be kidnapped by him.
+
