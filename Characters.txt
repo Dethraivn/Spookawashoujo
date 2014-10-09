@@ -107,9 +107,9 @@ Faculty:
     Mermaid
       Constantly plays Mermaid: The New Evidence in class and goes on rants about how the government is hiding sea monsters instead of actually teaching english.
 
-  PE teacher:
+  PE teacher, Sex Ed teacher:
     Werewolf
-      
+      Anger problems, is told to wear clothes but they fit poorly and he often ends up tearing them off before going into a berserk fury when he gets angry.
 
   Math teacher:
     
@@ -120,8 +120,8 @@ Faculty:
       
 
   Metal Shop teacher:
-    
-      
+    Christine
+      Requires assistance to properly teach class due to being a car. Succubus is often called in for assistance.
 
   Ancient Sumerian Language teacher:
     Abdul Alhazred
